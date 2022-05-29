@@ -43,11 +43,11 @@ ACM International Conference on Multimedia Retrieval (ICMR), 2022
   
 Awards
 ------
-Merit Student Award, Peking University, 2019, 2021
-Tianchuang Scholarship, Peking University, 2021
-Excellent Research Award, Peking University, 2021
-Third Class Scholarship, Peking University, 2020
-Second Class Scholarship, Peking University, 2019
+Merit Student Award, Peking University, 2019, 2021<br />
+Tianchuang Scholarship, Peking University, 2021<br />
+Excellent Research Award, Peking University, 2021<br />
+Third Class Scholarship, Peking University, 2020<br />
+Second Class Scholarship, Peking University, 2019<br />
 Outstanding Student, Wangxuan Institude Computer Technology, 2019
 
 Professional Activities
