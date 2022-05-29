@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Chenchen Liu.
+My name is Chenchen Liu. I am currently a Ph.D. student at Peking University, supervised by Prof. [[Yadong Mu]](muyadong.com). I obtained B.S. degree from Jilin University in 2017. My research interests lie in computer vision, especially in human pose estimation and motion synthesis
 
 Education
 ------
@@ -40,11 +40,16 @@ AAAI Conference on Artificial Intelligence (AAAI), 2020
 Ben Xue, <strong>Chenchen Liu</strong>, and Yadong Mu <br />
 <strong>Video2Subtitle: Matching Weakly-Synchronized Sequences via Dynamic Temporal Alignment</strong>, <br />
 ACM International Conference on Multimedia Retrieval (ICMR), 2022
-
-Experience
-------
-  
-  
   
 Award
 ------
+Merit Student Award, Peking University, 2019, 2021
+Tianchuang Scholarship, Peking University, 2021
+Excellent Research Award, Peking University, 2021
+Third Class Scholarship, Peking University, 2020
+Second Class Scholarship, Peking University, 2019
+Outstanding Student, Wangxuan Institude Computer Technology, 2019
+
+Professional Activities
+------
+Reviewer for CVPR, ECCV, AAAI, ACM MM, TMM
