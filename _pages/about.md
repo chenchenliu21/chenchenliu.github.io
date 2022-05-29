@@ -52,4 +52,4 @@ Outstanding Student, Wangxuan Institude Computer Technology, 2019
 
 Professional Activities
 ------
-Reviewer for CVPR, ECCV, AAAI, ACM MM, TMM
+Reviewer for CVPR, ECCV, AAAI, ACM MM, TMM, Neurocomputing
