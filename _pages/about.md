@@ -47,4 +47,3 @@ Experience
   
 Award
 ------
-![image](https://user-images.githubusercontent.com/87176117/170859195-0b658711-e5e6-4078-85bd-7ae4b0dc52d5.png)
