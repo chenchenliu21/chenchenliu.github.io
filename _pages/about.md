@@ -14,7 +14,7 @@ Education
 Ph.D. student in Wangxuan Institude Computer Technology, Peking University, 2017 - now. <br />
 B.S. in College of Computer Science and Technology, Jilin University, 2013 - 2017.
 
-Publication
+Publications
 ------
 <strong>Chenchen Liu</strong>, Yongzhi Li, Kangqi Ma, Duo Zhang, Peijun Bao, and Yadong Mu <br />
 <strong>Learning 3-D Human Pose Estimation from Catadioptric Videos</strong>, [[pdf]](https://www.ijcai.org/proceedings/2021/118) <br />
@@ -41,7 +41,7 @@ Ben Xue, <strong>Chenchen Liu</strong>, and Yadong Mu <br />
 <strong>Video2Subtitle: Matching Weakly-Synchronized Sequences via Dynamic Temporal Alignment</strong>, <br />
 ACM International Conference on Multimedia Retrieval (ICMR), 2022
   
-Award
+Awards
 ------
 Merit Student Award, Peking University, 2019, 2021
 Tianchuang Scholarship, Peking University, 2021
