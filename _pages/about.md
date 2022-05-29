@@ -12,7 +12,6 @@ My name is Chenchen Liu.
 Education
 ------
 Ph.D. student in Wangxuan Institude Computer Technology, Peking University, 2017 - now. <br />
-
 B.S. in College of Computer Science and Technology, Jilin University, 2013 - 2017.
 
 Publication
