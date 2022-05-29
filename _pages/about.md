@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Chenchen Liu. I am currently a Ph.D. student at Peking University, supervised by Prof. [Yadong Mu](http://www.muyadong.com). I obtained B.S. degree from Jilin University in 2017. My research interests lie in computer vision, especially in human pose estimation and motion synthesis
+My name is Chenchen Liu. I am currently a Ph.D. student at Peking University, supervised by Prof. [Yadong Mu](http://www.muyadong.com). I obtained B.S. degree from Jilin University in 2017. My research interests lie in computer vision, especially in human pose estimation and motion synthesis.
 
 Education
 ------
